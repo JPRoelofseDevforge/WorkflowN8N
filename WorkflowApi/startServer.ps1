@@ -1,0 +1,3 @@
+$env:DB_CONNECTION_STRING="Host=rxg.postgres.database.azure.com;Port=5432;Database=Workflow;Username=rx;Password=qwe12345_;SSL Mode=Require;Trust Server Certificate=true"
+$env:N8N_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0YmEwNTBiZC1lMDJjLTQ2OWEtODk5Zi1lZDQ2OTVmYTJmN2UiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzU2MjkyNDM5fQ.KYPEoAvfeqFl-43Kj-tIJS8ZYNNXIeIGer-8JgszGQo"
+dotnet run
